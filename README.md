@@ -4,6 +4,7 @@ PPT : https://docs.google.com/presentation/d/1rou0hDn2R887swFUCOqYBOyGzLuQZHh_Lf
 
 Video : https://drive.google.com/drive/folders/1B5CuhBQ6FR0IewYcQqt3ZTrbzQ92Cyjx?usp=drive_link
 
+Most of my time went to understanding fine-tuning, researching cloud tiers and using runpod.io interface
 # TensorBoard Results
 
 ## TensorBoard Loss/Train Graph For Full Parameter Fine-Tuning
