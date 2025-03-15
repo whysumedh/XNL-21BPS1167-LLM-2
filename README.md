@@ -4,7 +4,8 @@ PPT : https://docs.google.com/presentation/d/1rou0hDn2R887swFUCOqYBOyGzLuQZHh_Lf
 
 Video and you can find the Final Model checkpoints here too : https://drive.google.com/drive/folders/1B5CuhBQ6FR0IewYcQqt3ZTrbzQ92Cyjx?usp=drive_link
 
-Most of my time went to understanding fine-tuning, researching cloud tiers and using runpod.io interface
+Most of my time went to understanding fine-tuning, researching cloud tiers and using runpod.io remote instance via SSH and connecting to JupyTer and Tensorboard.
+
 Detailed Cost Analysis as asked in Phase 1: https://docs.google.com/document/d/1Ua19HYjceGdUtQm1Mj0bhL0b9mCd3mFzSHvyX3En1Do/edit?usp=sharing
 
 # TensorBoard Results
