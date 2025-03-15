@@ -20,7 +20,7 @@ Most of my time went to understanding fine-tuning, researching cloud tiers and u
 
 Deployment Link :
 
-Deployment Architecture:
+## Deployment Architecture:
 ![dLJDKjim4BxxAKGkDJCDAScj9sZeD4mBpSHmPXHhawZ8ArMxfa27Twza1-E4499oOQJlvrkjTtD2B3sNXKcI3-8CPXf1y0B4zt8A7e61kcCZaQylVWYZfrxwX-H0HLwRCmu6Oi7iw7Elv-MVexdcHJaj2NnkaG7vABT5J-MI9ElUxMlpNY69mVUK9ewbd6DkIWKYo0gBGg8If0j](https://github.com/user-attachments/assets/6e220b76-3db4-49c4-a559-85017c08a6a5)
 
 
