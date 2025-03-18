@@ -35,6 +35,10 @@ Loss of ~3.17 after all steps
 - Implemented Hyperparameter Tuning with Optuna
 - Integrated a Learning Rate Scheduler Using Cosine Annealing
 
+### Results
+
+![2 1423](https://github.com/user-attachments/assets/1705b24f-3a54-4b0a-bf28-35463137815b)
+
 
 
 
