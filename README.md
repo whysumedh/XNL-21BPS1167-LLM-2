@@ -19,7 +19,6 @@ Detailed Cost Analysis as asked in Phase 1: https://docs.google.com/document/d/1
 
 Loss of ~3.17 after all steps
 
-![Screenshot 2025-03-15 055153](https://github.com/user-attachments/assets/0eefedea-6252-4aa2-9731-028e817fbd75)
 
 ![Screenshot 2025-03-15 055244](https://github.com/user-attachments/assets/d2699bf8-ada7-4865-8f68-55a4b0a9c17a)
 
